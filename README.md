@@ -1,4 +1,4 @@
-![Css Grid](assets/css-grid-intro.jpg)
+![Css Grid](assets/css-grid.png)
 
 ## Section 1: Css Grid Base Method
 - [Task 1](https://codepen.io/elad2412/pen/BayLwyq) 
